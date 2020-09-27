@@ -1,0 +1,16 @@
+# IDEs
+.idea/
+.vscode/
+
+# Dependencies
+vendor/
+composer.phar
+composer.lock
+
+# Testing
+phpunit.xml
+.phpunit.result.cache
+/.phpunit
+
+# Tools
+.php_cs.cache
